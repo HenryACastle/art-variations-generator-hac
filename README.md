@@ -5,6 +5,7 @@ by Henry A Castillo
 
 This is a generator to help create many variations of an uploaded art. 
 
+![This is an example image of 4 variations](https://github.com/HenryACastle/art-variations-generator-hac/blob/main/src/preview_4_vartiations_example.png)
 
 The idea for this application of course came from an NFT generator (I had to hop in on the hype).
 This comes with a setup to include rarity, attributes, and meta data on the generated art.
@@ -27,4 +28,4 @@ This is a proof of concept example for generatoing variations of digital art.
     -  The defaultEdition is the amount of variations outputted.
 4. When you are ready run the following comman and your outputted art will be in the build directory:
 
-npm run build
+> npm run build
