@@ -1,0 +1,15 @@
+{
+    "name": "art-variations-generator-hac",
+    "version": "1.0.0",
+    "description": "Program that generates multiple variations of some kind of digital art with meta data",
+    "main": "index.js",
+    "scripts": {
+        "build": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Henry A Castillo",
+    "license": "ISC",
+    "dependencies": {
+        "canvas": "^2.8.0"
+    }
+}
